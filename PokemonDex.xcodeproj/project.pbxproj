@@ -99,6 +99,9 @@
 		8711D7961D1C47F8000D8938 /* PokemonDex */ = {
 			isa = PBXGroup;
 			children = (
+				8711D7CA1D1C4813000D8938 /* Controller */,
+				8711D7C91D1C4808000D8938 /* View */,
+				8711D7C81D1C4801000D8938 /* Model */,
 				8711D7971D1C47F8000D8938 /* AppDelegate.swift */,
 				8711D7991D1C47F8000D8938 /* ViewController.swift */,
 				8711D79B1D1C47F8000D8938 /* Main.storyboard */,
@@ -126,6 +129,27 @@
 				8711D7BC1D1C47F8000D8938 /* Info.plist */,
 			);
 			path = PokemonDexUITests;
+			sourceTree = "<group>";
+		};
+		8711D7C81D1C4801000D8938 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		8711D7C91D1C4808000D8938 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		8711D7CA1D1C4813000D8938 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
